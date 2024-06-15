@@ -2,8 +2,15 @@ https://www.youtube.com/watch?v=BlkJ_WWdtkQ
 
 After Effects JSON
 https://github.com/adroitwhiz/after-effects-to-blender-export/blob/master/Export%20Composition%20Data%20to%20JSON.jsx
+-3D camera track to json export
+
+
 
 Blender ZIP
 https://github.com/adroitwhiz/after-effects-to-blender-export/blob/master/import-comp-to-blender.py
 
-Blender: import camera's video Background, hdri, shadow catcher plane
+Blender: 
+-import camera's video Background 
+-hdri 
+-shadow catcher plane
+-film transparency
